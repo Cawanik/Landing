@@ -7,6 +7,9 @@
     <section class="violet">
       <ForWho/>
     </section>
+    <section class="olive">
+      <Graphics/>
+    </section>
     <Exapmple/>
   </v-main>
 </template>
